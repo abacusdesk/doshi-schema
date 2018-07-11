@@ -5,7 +5,7 @@
     "publisher": {
     	"@type": "Organization",
     	"name": "Neurological Surgery",
-    	"description": " Dr.Paresh Joshi is one of the best Neurosurgeon in Mumbai, India. He offers world-class treatment & services to their patients",
+    	"description": " Dr. Paresh Joshi is one of the best Neurosurgeon in Mumbai, India. He offers world-class treatment & services to his patients",
     	"url": "https://neurologicalsurgery.in/",
     	"logo": "https://neurologicalsurgery.in/wp-content/uploads/2017/10/neuro-logo.png",
     	"sameAs": [
@@ -18,7 +18,7 @@
     	 	]
  },
     
-   "name": "Tremors - Testimonials ",
+   "name": "Tremors - Testimonials",
     "description": "With the specialization of many years. We have treated many tremor patients by providing them the best medications to remove the symptom.",
     "inLanguage": "English",
     "headline":"Testimonials: Tremors - Success Stories",
@@ -42,7 +42,7 @@
     "position": 2,
     "item": {
       "@id": "https://neurologicalsurgery.in/testimonial/tremors/",
-      "name": "Tremors  - Testimonials "
+      "name": "Tremors - Testimonials"
    }
   }]
 }
