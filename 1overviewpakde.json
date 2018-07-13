@@ -173,10 +173,7 @@
       "name": "radiation therapy"
     }
   ],
- "pathology": [
- {
-        
-       "tests&diagnosis": [ 
+  "tests&diagnosis": [ 
          {
          "@type": "MedicalSymptom",
         "name": "back pain"
