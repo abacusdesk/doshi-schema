@@ -164,40 +164,8 @@
        "@type": "Drug",
       "name": "Carbidopa "
     },
-    {
-      "@type": "MedicalTherapy",
-      "name": "chemotherapy"
-    },
-    {
-      "@type": "MedicalTherapy",
-      "name": "radiation therapy"
-    },
-     {
-         "@type": "MedicalSymptom",
-        "name": "back pain"
-      },
-      {
-        "@type": "MedicalSymptom",
-        "name": "loss of height over time"
-      },
-      {
-        "@type": "MedicalSymptom",
-        "name": "wrist fractures"
-      },
-      {
-        "@type": "MedicalSymptom",
-        "name": "hip fractures"
-      },
-      {
-        "@type": "MedicalSymptom",
-        "name": "fractures of spinal bones"
-      },
-      {
-        "@type": "MedicalSymptom",
-        "name": "a stooped posture"
-  }
-  ],
-  "secondaryPrevention": [
+   ],
+  "LifestyleModification": [
      {
         "@type": "LifestyleModification",
         "name": "Exercise and Yoga"
