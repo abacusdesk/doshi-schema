@@ -156,7 +156,7 @@
      }
     ]
   },
-  "name": "Parkinsons Disease"
+  "name": "Parkinsons Disease",
   "possibleTreatment": [
     {
       "@type": "Drug",
@@ -165,7 +165,7 @@
     {
        "@type": "Drug",
       "name": "Carbidopa "
-    },
+    }
   ],
 "tests&diagnosis": [ 
          {
