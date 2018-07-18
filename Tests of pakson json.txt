@@ -247,7 +247,7 @@
   "@type": "ListItem",
   "position": 3,
   "item": {
-    "@id": "There is no specific test for Parkinson’s disease, making it sometimes a difficult condition to diagnose. It is important that the physician you are seeing has experience with all of the different disorders that can masquerade as Parkinson’s Disease.",
+    "@id": "https://neurologicalsurgery.in/disease/parkinsons-disease/tests-and-diagnosis/,
     "name": "Tests"
   }
   }]
