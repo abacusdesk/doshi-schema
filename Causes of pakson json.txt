@@ -65,7 +65,7 @@
 },
 "name": "Parkinson's Disease",
 "SurgicalProcedure": {
-    "name": "surgery"
+    "name": "x"
 },
 "riskFactor": [
   {
@@ -78,7 +78,7 @@
   },
   {
     "@type": "MedicalRiskFactor",
-    "name": "sex"
+    "name": "Sex"
   },
   {
     "@type": "MedicalRiskFactor",
@@ -96,7 +96,7 @@
 "secondaryPrevention": [
   {
     "@type": "LifestyleModification",
-    "name": "Eat Fresh, Raw Vegetables"
+    "name": "Eat Fresh & Raw Vegetables"
   },
   {
     "@type": "LifestyleModification",
@@ -152,7 +152,7 @@
   },
   {
     "@type": "MedicalRiskFactor",
-    "name": "toxins"
+    "name": "Toxins"
      }
     ]
   },
