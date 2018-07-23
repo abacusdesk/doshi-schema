@@ -1,0 +1,174 @@
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "MedicalWebPage",
+	"publisher": {
+		"@type": "Organization",
+		"name": "Functional Neurosurgery",
+		"description": "Dr. Paresh Joshi is one of the best neurosurgeons in Mumbai, India offering world-class neurological treatment to patients from all over the world.",
+		"url": "https://neurologicalsurgery.in/",
+		"logo": "https://neurologicalsurgery.in/wp-content/uploads/2017/10/neuro-logo.png",
+		"sameAs": [
+			"https://twitter.com/DrPDoshi",
+			"https://www.facebook.com/Dr.P.Doshi/",
+			"https://www.slideshare.net/PareshDoshi9/",
+			"https://www.linkedin.com/in/drpdoshi/",
+			"https://www.youtube.com/c/DrPareshDoshi",
+			"https://in.pinterest.com/DrPareshDoshi/"
+		]
+	},
+	"about": {
+		"@context": "http://schema.org",
+		"@type": "MedicalCondition",
+		"alternateName": "Parkinson’s Disease",
+		"associatedAnatomy": {
+			"@type": "AnatomicalStructure",
+			"name": "Central Nervous System"
+		},
+		"code": {
+			"@type": "MedicalCode",
+			"code": "332.0",
+			"codingSystem": "ICD-9-CM"
+		},
+		"differentialDiagnosis": {
+			"@type": "DDxElement",
+			"diagnosis": {
+				"@type": "MedicalCondition",
+				"name": "Parkinson's Disease"
+			},
+			"distinguishingSign": [
+				{
+					"@type": "MedicalSymptom",
+					"name": "Tremors or Shaking"
+				},
+				{
+					"@type": "MedicalSymptom",
+					"name": "Slowed movement (bradykinesia)"
+				},
+				{
+					"@type": "MedicalSymptom",
+					"name": "Rigid muscles"
+				},
+				{
+					"@type": "MedicalSymptom",
+					"name": "Impaired posture and balance"
+				},
+				{
+					"@type": "MedicalSymptom",
+					"name": "Loss of automatic movements"
+				},
+				{
+					"@type": "MedicalSymptom",
+					"name": "Speech changes"
+				},
+				{
+					"@type": "MedicalSymptom",
+					"name": "Writing changes"
+				}
+			]
+		},
+		"name": "parkinson's disease",
+		"possibleTreatment": [
+			{
+				"@type": "MedicalTherapy",
+				"drug": [
+					{
+						"@type": "Drug",
+						"name": "Levodopa"
+					},
+					{
+						"@type": "Drug",
+						"name": "Carbidopa "
+					}
+				]
+			}
+		],
+		"riskFactor": [
+			{
+				"@type": "MedicalRiskFactor",
+				"name": "Age"
+			},
+			{
+				"@type": "MedicalRiskFactor",
+				"name": "Heredity"
+			},
+			{
+				"@type": "MedicalRiskFactor",
+				"name": "Sex"
+			},
+			{
+				"@type": "MedicalRiskFactor",
+				"name": "Exposure to toxins"
+			}
+		],
+		"signOrSymptom": [
+			{
+				"@type": "MedicalSymptom",
+				"name": "Tremors or Shaking"
+			},
+			{
+				"@type": "MedicalSymptom",
+				"name": "Slowed movement (bradykinesia)"
+			},
+			{
+				"@type": "MedicalSymptom",
+				"name": "Rigid muscles"
+			},
+			{
+				"@type": "MedicalSymptom",
+				"name": "Impaired posture and balance"
+			},
+			{
+				"@type": "MedicalSymptom",
+				"name": "Loss of automatic movements"
+			},
+			{
+				"@type": "MedicalSymptom",
+				"name": "Speech changes"
+			},
+			{
+				"@type": "MedicalSymptom",
+				"name": "Writing changes"
+			}
+		]
+	},
+	"name": "Parkinsons Disease",
+	"typicalAgeRange": "18-",
+	"inLanguage": "English",
+	"description": "There isn’t one single cause of Parkinson’s that has been proven at this time. The Person’s risk of developing Parkinson’s disease are maybe due to age, genetics, gender, toxin exposure and some medications.",
+	"lastReviewed": "2018-07-23",
+	"dateModified": "2018-07-23"
+}
+</script>
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement": [
+		{
+			"@type": "ListItem",
+			"position": 1,
+			"item": {
+				"@id": "https://neurologicalsurgery.in/",
+				"name": "Home"
+			}
+		},
+		{
+			"@type": "ListItem",
+			"position": 2,
+			"item": {
+				"@id": "https://neurologicalsurgery.in/disease/parkinsons-disease/",
+				"name": "Parkinsons Disease"
+			}
+		},
+        {
+			"@type": "ListItem",
+			"position": 3,
+			"item": {
+				"@id": "https://neurologicalsurgery.in/disease/parkinsons-disease/risk-factors/",
+				"name": "Risk Factors"
+			}
+		}
+	]
+}
+</script>
