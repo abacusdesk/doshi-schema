@@ -102,7 +102,7 @@
         {
             "@type": "MedicalRiskFactor",
             "name": "Age"
-        }
+        },
             {
             "@type": "MedicalRiskFactor",
             "name": "Radiation"
