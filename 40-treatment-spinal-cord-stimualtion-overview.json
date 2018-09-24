@@ -1,0 +1,86 @@
+<
+script type = "application/ld+json" > {
+        "@context": "http://schema.org",
+        "@type": "MedicalWebPage",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Functional Neurosurgery",
+            "description": "Dr. Paresh Joshi is one of the best neurosurgeons in Mumbai, India offering world-class neurological treatment to patients from all over the world.",
+            "url": "https://neurologicalsurgery.in/",
+            "logo": "https://neurologicalsurgery.in/wp-content/uploads/2017/10/neuro-logo.png",
+            "sameAs": [
+                "https://twitter.com/DrPDoshi",
+                "https://www.facebook.com/Dr.P.Doshi/",
+                "https://www.slideshare.net/PareshDoshi9/",
+                "https://www.linkedin.com/in/drpdoshi/",
+                "https://www.youtube.com/c/DrPareshDoshi",
+                "https://in.pinterest.com/DrPareshDoshi/"
+            ]
+        },
+        "about": {
+            "@context": "http://schema.org",
+            "@type": "MedicalCondition",
+            "alternateName": "Spinal Cord Stimulation",
+            "associatedAnatomy": {
+                "@type": "AnatomicalStructure",
+                "name": "Brain"
+            },
+            "code": {
+                "@type": "MedicalCode",
+                "code": "V53.02",
+                "codingSystem": "ICD-9-CM"
+            },
+            "differentialDiagnosis": {
+                "@type": "DDxElement",
+                "diagnosis": {
+                    "@type": "MedicalCondition",
+                    "name": "Spinal Cord Stimulation"
+                },
+                "distinguishingRisks&Complications": [{
+                        "@type": "MedicalSymptom",
+                        "name": " Stimulation stops or only works occasionally"
+                    },
+                    {
+                        "@type": "MedicalSymptom",
+                        "name": "Overstimulation"
+                    },
+                    {
+                        "@type": "MedicalSymptom",
+                        "name": "Poor system connection"
+                    },
+                    {
+                        "@type": "MedicalSymptom",
+                        "name": "Impaired posture and balance"
+                    }
+                ]
+            },
+            "name": "Spinal Cord Stimulation",
+            "typicalAgeRange": "18-",
+            "inLanguage": "English",
+            "description": "Spinal cord stimulation is a remedy that cover up pain signals before they reach the brain and jam the pain signals coming from the Legs, Back and Head. It is a method to apply pulsed electric signals to treat chronic pain.",
+            "lastReviewed": "2018-07-23",
+            "dateModified": "2018-07-23"
+        } <
+        /script> <
+        script type = "application/ld+json" > {
+            "@context": "http://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://neurologicalsurgery.in/",
+                        "name": "Home"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://neurologicalsurgery.in/treatment/spinal-cord-stimulation/",
+                        "name": "Spinal Cord Stimulation"
+                    }
+                }
+            ]
+        } <
+        /script>
