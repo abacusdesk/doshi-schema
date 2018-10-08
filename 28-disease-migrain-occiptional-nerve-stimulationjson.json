@@ -1,0 +1,197 @@
+< script type = "application/ld+json" > {
+        "@context": "http://schema.org",
+        "@type": "MedicalWebPage",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Functional Neurosurgery",
+            "description": "Dr. Paresh Doshi is one of the best neurosurgeons in Mumbai, India offering world-class neurological treatment to patients from all over the world.",
+            "url": "https://neurologicalsurgery.in/",
+            "logo": "https://neurologicalsurgery.in/wp-content/uploads/2017/10/neuro-logo.png",
+            "sameAs": [
+                "https://twitter.com/DrPDoshi",
+                "https://www.facebook.com/Dr.P.Doshi/",
+                "https://www.slideshare.net/PareshDoshi9/",
+                "https://www.linkedin.com/in/drpdoshi/",
+                "https://www.youtube.com/c/DrPareshDoshi",
+                "https://in.pinterest.com/DrPareshDoshi/"
+            ]
+        },
+        "about": {
+            "@context": "http://schema.org",
+            "@type": "MedicalCondition",
+            "alternateName": "Migraine",
+            "associatedAnatomy": {
+                "@type": "AnatomicalStructure",
+                "name": "Headaches"
+            },
+            "code": {
+                "@type": "MedicalCode",
+                "code": "356.90",
+                "codingSystem": "ICD-9-CM"
+            },
+            "differentialDiagnosis": {
+                "@type": "DDxElement",
+                "diagnosis": {
+                    "@type": "MedicalCondition",
+                    "name": "Migrainea"
+                },
+                "distinguishingSymptoms": [{
+                        "@type": "MedicalSymptom",
+                        "name": "Fatigue or low energy"
+                    },
+                    {
+                        "@type": "MedicalSymptom",
+                        "name": "Frequent Yawning"
+                    },
+                    {
+                        "@type": "MedicalSymptom",
+                        "name": "Irritability"
+                    },
+                    {
+                        "@type": "MedicalSymptom",
+                        "name": "Depression"
+                    },
+                    {
+                        "@type": "MedicalSymptom",
+                        "name": "Headaches"
+                    },
+                    {
+                        "@type": "MedicalSymptom",
+                        "name": "Sensitivity to light, noise or odors"
+                    }
+                ]
+            },
+            "causes": [{
+                    "@type": "MedicalCause",
+                    "name": "Gender"
+                },
+                {
+                    "@type": "MedicalCause",
+                    "name": "Age"
+                },
+                {
+                    "@type": "MedicalCause",
+                    "name": "Hormonal changes in women"
+                },
+                {
+                    "@type": "MedicalCause",
+                    "name": "Changes in sleep-wake pattern"
+                },
+                {
+                    "@type": "MedicalCause",
+                    "name": "Physical factors"
+                }
+            ],
+            "riskFactor": [{
+                    "@type": "MedicalRiskFactor",
+                    "name": "Family history"
+                },
+                {
+                    "@type": "MedicalRiskFactor",
+                    "name": "Medicine overuse"
+                },
+                {
+                    "@type": "MedicalRiskFactor",
+                    "name": "Obesity"
+                },
+                {
+                    "@type": "MedicalRiskFactor",
+                    "name": "Depression"
+                },
+                {
+                    "@type": "MedicalRiskFactor",
+                    "name": "Caffeine overuse"
+                },
+                {
+                    "@type": "MedicalRiskFactor",
+                    "name": "Neurological illness"
+                }
+            ],
+            "secondaryPrevention": [{
+                    "@type": "LifestyleModification",
+                    "name": "Eat Fresh & Raw Vegetables"
+                },
+                {
+                    "@type": "LifestyleModification",
+                    "name": "Regularly Exercise"
+                },
+                {
+                    "@type": "LifestyleModification",
+                    "name": "Reduce Your Stress"
+                },
+                {
+                    "@type": "LifestyleModification",
+                    "name": "Incorporate Omega-3 Fatty Acids Into Your Diet"
+                }
+            ],
+            "name": "Migraine",
+            "possibleTreatment": [{
+                    "@type": "Drug",
+                    "name": "topiramate"
+                },
+                {
+                    "@type": "Drug",
+                    "name": "valproic acid"
+                },
+                {
+                    "@type": "Drug",
+                    "name": "propranolol"
+                }
+            ],
+            "Lifestyl&HomeRemedies": [{
+                    "@type": "LifestyleModification",
+                    "name": "Eat regular, balanced meals"
+                },
+                {
+                    "@type": "LifestyleModification",
+                    "name": "Establish a sleep schedule"
+                },
+                {
+                    "@type": "LifestyleModification",
+                    "name": "Reduce your stress"
+                },
+                {
+                    "@type": "LifestyleModification",
+                    "name": "Practice good posture"
+                }
+            ]
+        },
+        "name": "Migraine - Overview",
+        "typicalAgeRange": "18-",
+        "inLanguage": "English",
+        "description": "Occipital nerve stimulation is a procedure that may be useful in the treatment of headache disorders such as chronic migraines, that do not respond well to other therapies. Occipital nerve stimulation may also improve headaches for some people.",
+        "headline": "Migraine - Overview",
+        "lastReviewed": "2017-24-25",
+        "dateModified": "2017-04-25"
+    } <
+    /script> <
+script type = "application/ld+json" > {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@id": "https://neurologicalsurgery.in/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "item": {
+                    "@id": "https://neurologicalsurgery.in/disease/migraine/",
+                    "name": "Migraine"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "item": {
+                    "@id": "https://neurologicalsurgery.in/disease/migraine/occipital-nerve-stimulation/",
+                    "name": "Occiptional Nerve Stimulation"
+                }
+            }
+        ]
+    } <
+    /script>
