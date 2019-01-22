@@ -1,0 +1,102 @@
+< script type = "application/ld+json" > {
+		"@context": "http://schema.org",
+		"@type": "MedicalWebPage",
+		"publisher": {
+			"@type": "Organization",
+			"name": "Functional Neurosurgery",
+			"description": "Dr. Paresh Joshi is one of the best neurosurgeons in Mumbai, India offering world-class neurological treatment to patients from all over the world.",
+			"url": "https://neurologicalsurgery.in/",
+			"logo": "https://neurologicalsurgery.in/wp-content/uploads/2017/10/neuro-logo.png",
+			"sameAs": [
+				"https://twitter.com/DrPDoshi",
+				"https://www.facebook.com/Dr.P.Doshi/",
+				"https://www.slideshare.net/PareshDoshi9/",
+				"https://www.linkedin.com/in/drpdoshi/",
+				"https://www.youtube.com/c/DrPareshDoshi",
+				"https://in.pinterest.com/DrPareshDoshi/"
+			]
+		},
+		"about": {
+			"@context": "http://schema.org",
+			"@type": "MedicalCondition",
+			"alternateName": "Dystonia",
+			"associatedAnatomy": {
+				"@type": "AnatomicalStructure",
+				"name": "Muscle of entire body"
+			},
+			"code": {
+				"@type": "MedicalCode",
+				"code": "G24.9",
+				"codingSystem": "ICD-9-CM"
+			},
+			"differentialDiagnosis": {
+				"@type": "DDxElement",
+				"diagnosis": {
+					"@type": "MedicalCondition",
+					"name": "Dystonia"
+				},
+				"distinguishingSign": [{
+						"@type": "MedicalSymptom",
+						"name": "Speech difficulties"
+					},
+					{
+						"@type": "MedicalSymptom",
+						"name": "Uncontrollable blinking"
+					},
+					{
+						"@type": "MedicalSymptom",
+						"name": "Involuntary pulling of the neck"
+					},
+					{
+						"@type": "MedicalSymptom",
+						"name": "Cramping of the foot"
+					},
+					{
+						"@type": "MedicalSymptom",
+						"name": "abnormal postures"
+					}
+				]
+			},
+			"name": "parkinson's disease",
+			"possibleTreatment": [{
+				"@type": "MedicalTherapy",
+				"drug": [{
+						"@type": "Drug",
+						"name": "Levodopa"
+					},
+					{
+						"@type": "Drug",
+						"name": "Carbidopa "
+					}
+				]
+			}],
+			"name": "Dystonia",
+			"typicalAgeRange": "18-",
+			"inLanguage": "English",
+			"description": "Dystonia is the continuous muscle contractions of engaging muscles letting in twisty or irregular movements or abnormal postures.",
+			"lastReviewed": "2018-07-23",
+			"dateModified": "2018-07-23"
+		} <
+		/script> <
+		script type = "application/ld+json" > {
+			"@context": "http://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement": [{
+					"@type": "ListItem",
+					"position": 1,
+					"item": {
+						"@id": "https://neurologicalsurgery.in/",
+						"name": "Home"
+					}
+				},
+				{
+					"@type": "ListItem",
+					"position": 2,
+					"item": {
+						"@id": "https://neurologicalsurgery.in/disease/dystonia/",
+						"name": "Dystonia"
+					}
+				}
+			]
+		} <
+		/script>
